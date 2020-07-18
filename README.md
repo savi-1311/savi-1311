@@ -1,5 +1,9 @@
-### Aloha!:wave:
+
 <img src="https://github.com/savi-1311/savi-1311/blob/master/Portfolio.jpeg" width="100%" >
+
+### Aloha!:wave:
+
+<img src="https://blog.insaid.co/wp-content/uploads/2020/01/Coding.gif" width="100%">
 
 
 
