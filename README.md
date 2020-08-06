@@ -3,7 +3,8 @@
 
 ### Aloha!:wave:
 
-<img src="https://blog.insaid.co/wp-content/uploads/2020/01/Coding.gif" width="100%">
+![Shambhavi github stats]
+(https://github-readme-stats.vercel.app/api?username=savi-1311&show_icons=true)
 
 
 
