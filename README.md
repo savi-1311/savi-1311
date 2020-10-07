@@ -1,6 +1,3 @@
-
-<img src="https://github.com/savi-1311/savi-1311/blob/master/Portfolio.jpeg" width="100%" >
-
 ### Aloha!:wave:
 
 [![Shambhavi's github stats](https://github-readme-stats.vercel.app/api?username=savi-1311&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
