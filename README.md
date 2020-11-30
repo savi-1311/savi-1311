@@ -2,8 +2,6 @@
 
 [![Shambhavi's github stats](https://github-readme-stats.vercel.app/api?username=savi-1311&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=savi-1311&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 #### My waves get lost in the Ocean :ocean: . But Hey there! stumbling upon the shore, check out my footprints :footprints:
