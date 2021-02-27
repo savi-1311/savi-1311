@@ -25,5 +25,7 @@
 
 [![Shambhavi's github stats](https://github-readme-stats.vercel.app/api?username=savi-1311&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=savi-1311&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
 
