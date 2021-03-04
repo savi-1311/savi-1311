@@ -23,7 +23,10 @@
 [![Quora Badge](https://img.shields.io/badge/-Shambhavi%20Shandilya-ff0000?style=flat-square&labelColor=ff0000&logo=quora&logoColor=white&link=https://www.quora.com/profile/Shambhavi-Shandilya-3)](https://www.quora.com/profile/Shambhavi-Shandilya-3)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=savi-1311&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=savi-1311&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)!
+***
+Thanks for stopping by!
+***
+ ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=savi-1311f&repo=Rate-It-Backend&countColorcountColor&countColor=%237B1E7A)
 
 
