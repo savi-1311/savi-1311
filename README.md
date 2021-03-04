@@ -27,6 +27,6 @@
 ***
 Thanks for stopping by!
 ***
- ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=savi-1311f&repo=Rate-It-Backend&countColorcountColor&countColor=%237B1E7A)
+ ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=savi-1311f&repo=savi-1311&countColorcountColor&countColor=%237B1E7A)
 
 
