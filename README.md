@@ -2,7 +2,10 @@
 
 #### My waves get lost in the Ocean :ocean: . But Hey there! stumbling upon the shore, check out my footprints :footprints:
 
-
+Want my intro in the CLI style? Here is my npm package:
+```
+npx savi-1311
+```
 - :books: Sophomore pursuing Integrated B.Tech + M.Tech Information Technology from [IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/).
 - :writing_hand: Loves to write Codes and Poems.
 - :green_book: I Love indulging myself in the world of Books. You can always find me reading or writing. (Well it can be either Literature or Technical :wink:)
