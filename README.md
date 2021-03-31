@@ -39,13 +39,13 @@ npx savi-1311
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=savi-1311&theme=vision-friendly-dark)](https://github.com/tejaswini22199)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=savi-1311&theme=vision-friendly-dark)](https://github.com/savi-1311)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=savi-1311&margin-w=15&theme=vision-friendly-dark&column=3)](https://github.com/tejaswini22199)
+[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=savi-1311&margin-w=15&theme=vision-friendly-dark&column=3)](https://github.com/savi-1311)
 
 </div>
 </details>
