@@ -39,19 +39,12 @@ npx savi-1311
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=savi-1311&theme=vision-friendly-dark)](https://github.com/savi-1311)
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=savi-1311&margin-w=15&theme=vision-friendly-dark&column=3)](https://github.com/savi-1311)
+[![Shambhavi's github activity graph](https://activity-graph.herokuapp.com/graph?username=savi-1311&theme=xcode)](https://github.com/savi-1311/github-readme-activity-graph)
 
 </div>
 </details>
 
-***
-Thanks for stopping by!
+**Thanks for stopping by!**
 <img align="right" alt="GIF" height="60px" src="https://media3.giphy.com/media/Vgr21IY5gbY2iinySW/giphy.gif?cid=ecf05e477irxoi6bz2fgvw0n90m8klke03di9w6rtup3eqfh&rid=giphy.gif" />
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=saloniankita&repo=savi-1311&countColorcountColor&countColor=%237B1E7B"/>
 
