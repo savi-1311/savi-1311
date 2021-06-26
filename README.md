@@ -1,15 +1,5 @@
 ### Hey there, I'm Shambhavi Shandilya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img align="right" alt="GIF" height="60px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=A+Web+Developer;A+Competitive+Coder;A+Technical+Content+Writer)](https://git.io/typing-svg)
-
-<a href="https://www.linkedin.com/in/savi1311">
-  <img align="left" alt="Shambhavi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.quora.com/profile/Shambhavi-Shandilya-3">
-  <img align="left" alt="Shambhavi's LinkedIN" width="77px" src="https://user-images.githubusercontent.com/56017960/123516180-73cbe180-d6b8-11eb-944d-8fdcc40695cb.png" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=savi-1311.savi-1311)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=113B4D&size=15&center=true&vCenter=true&lines=A+Full-Stack+Web+Developer;A+Competitive+Coder;A+Technical+Content+Writer)](https://git.io/typing-svg)
 <br />
 
 I'm [Shambhavi Shandilya](https://www.linkedin.com/in/savi1311), a sophomore pursuing IPG-M.Tech degree at IIIT Gwalior. My interest lies in Problem Solving. I utilize my problem-solving skills to build web applications. Though I'm a Full-Stack Developer, I spend most of my time building the Backend. (Yes! I love that black terminal window more than the divs of the website)
@@ -43,6 +33,16 @@ npx savi-1311
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=savi-1311&show_icons=true&theme=gotham" alt="savi-1311" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=savi-1311&show_icons=true&theme=gotham" alt="savi-1311"/></p>
+<br>
+
+<a href="https://www.linkedin.com/in/savi1311">
+  <img align="left" alt="Shambhavi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.quora.com/profile/Shambhavi-Shandilya-3">
+  <img align="left" alt="Shambhavi's LinkedIN" width="77px" src="https://user-images.githubusercontent.com/56017960/123516180-73cbe180-d6b8-11eb-944d-8fdcc40695cb.png" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=savi-1311.savi-1311)
 
 
