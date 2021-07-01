@@ -14,8 +14,8 @@ npx savi-1311
   
 - 💼 Any freelance work? Do reach, [email](mailto:shambhavishandilya01@gmail.com) :)
 - 💻 Currently an SWE Intern at Neolama.
+- 🔓 Also, a Cloud Security Engineering Intern at Pingsafe.
 - 🌱 Learning about Ruby on Rails and Cloud Security.
-- 💬 Ask me about anything, I am happy to help
 
 **Languages and Tools:**  
 
