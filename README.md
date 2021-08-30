@@ -11,9 +11,8 @@ npx savi-1311
 
   <img align="right" alt="GIF" src="https://portfolio-shambhavi.netlify.app/static/computer-119689d2f8ae50053501afb4190e23f6.gif" width="350" height="250" />
   
-- 💻 Currently an SWE Intern at Neolama.
-- 🔓 Also, a Cloud Security Engineering Intern at Pingsafe.
-- 🌱 Learning about Ruby on Rails and Cloud Security.
+- 🔓 Cloud Solutions Engineering [Intern at Pingsafe](https://pingsafe.ai/).
+- 💻 Ex SWE Intern at [Neolama](https://www.neolama.com/).
 
 **Languages and Tools:**  
 
