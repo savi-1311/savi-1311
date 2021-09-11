@@ -30,8 +30,8 @@ npx savi-1311
 🚧 **A ToDoist User:**
 <!-- TODO-IST:START -->
 🏆  8,266 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 454 tasks so far           
+🌸  Completed 1 tasks today           
+✅  Completed 455 tasks so far           
 ⏳  Longest streak is 59 days
 <!-- TODO-IST:END -->
 
