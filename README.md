@@ -18,7 +18,6 @@ I'm [Shambhavi Shandilya](https://www.linkedin.com/in/savi1311), a sophomore pur
 <hr>
 
 **✅ I like to work on:**  
-<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=savi-1311&show_icons=true&theme=gotham" alt="savi-1311" />
 
 |       |  |
 | :---        |    :----:   |
@@ -28,8 +27,6 @@ I'm [Shambhavi Shandilya](https://www.linkedin.com/in/savi1311), a sophomore pur
 |C++, JS and Java|<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="30" src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png"> |
 |AWS and Heroku|<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png"> <img height="30" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">|
 |Git, Bash and Postman|<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png"> <img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"> |
-
-
 
 <br/>
 
