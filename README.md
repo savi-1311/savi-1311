@@ -6,7 +6,6 @@
 </a>
 <a href="https://github.com/savi-1311">
   <img align="left" alt="Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png#gh-light-mode-only" />
-  <img align="left" alt="Github" width="22px" src="https://user-images.githubusercontent.com/56017960/158832641-b653132d-fed5-4c3e-a603-56b3230dc028.png#gh-dark-mode-only" />
 </a>
 <a href="https://shambhavishandilya.medium.com/">
   <img align="left" alt="Medium" width="22px" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png#gh-light-mode-only" />
