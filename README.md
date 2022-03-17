@@ -5,10 +5,11 @@
   <img align="left" alt="Shambhavi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://github.com/savi-1311">
-  <img align="left" alt="Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+  <img align="left" alt="Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png#gh-light-mode-only" />
+  <img align="left" alt="Github" width="22px" src="https://user-images.githubusercontent.com/56017960/158832641-b653132d-fed5-4c3e-a603-56b3230dc028.png#gh-dark-mode-only" />
 </a>
 <a href="https://shambhavishandilya.medium.com/">
-  <img align="left" alt="Medium" width="22px" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png" />
+  <img align="left" alt="Medium" width="22px" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png#gh-light-mode-only" />
 </a>
 <a href="https://www.wattpad.com/user/savi1311">
   <img align="left" alt="Wattpad" width="22px" src="https://i.pinimg.com/474x/3e/9b/2a/3e9b2a723bd1e516348c20e0c9f51554.jpg" />
