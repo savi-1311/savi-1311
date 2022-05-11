@@ -17,7 +17,7 @@
 <br>
 <br>
 
-I'm [Shambhavi Shandilya](https://www.linkedin.com/in/savi1311), a sophomore pursuing IPG-M.Tech degree at IIIT Gwalior. My interest lies in Problem Solving which I utilize to build web applications. Though I'm a Full-Stack Developer, I spend most of my time building the Backend. (Yes! I love that black terminal window more than the divs of the website). Currently, I am a Cloud Solutions Engineering Intern @[Pingsafe](https://pingsafe.ai/).
+I'm [Shambhavi Shandilya](https://www.linkedin.com/in/savi1311), a sophomore pursuing IPG-M.Tech degree at IIIT Gwalior. My interest lies in Problem Solving which I utilize to build web applications. Though I'm a Full-Stack Developer, I spend most of my time building the Backend. (Yes! I love that black terminal window more than the divs of the website).
 
 <hr>
 
