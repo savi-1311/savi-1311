@@ -13,6 +13,9 @@
 <a href="https://www.wattpad.com/user/savi1311">
   <img align="left" alt="Wattpad" width="22px" src="https://i.pinimg.com/474x/3e/9b/2a/3e9b2a723bd1e516348c20e0c9f51554.jpg" />
 </a>
+<a href="https://twitter.com/savi1311">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.usbrandcolors.com/images/logos/twitter-logo.svg" />
+</a>
 
 <br>
 <br>
