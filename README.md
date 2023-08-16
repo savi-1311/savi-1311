@@ -70,6 +70,10 @@ npx savi-1311
 ### A Productive Procastinator 🌸
 
 <!-- TODO-IST:START -->
+🏆  24,145 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 4,081 tasks so far           
+⏳  Longest streak is 159 days
 <!-- TODO-IST:END -->
 
 
