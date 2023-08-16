@@ -5,7 +5,7 @@
 
 
 <a href="https://www.linkedin.com/in/savi1311">
-  <img align="left" alt="Shambhavi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Shambhavi's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />
 </a>
 <a href="https://github.com/savi-1311">
   <img align="left" alt="Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png#gh-light-mode-only" />
