@@ -65,7 +65,7 @@ npx savi-1311
 
 <hr>
 
-![](https://visitor-badge.glitch.me/badge?page_id=savi-1311.savi-1311)
+[![Visits Badge](https://badges.pufler.dev/visits/savi-1311/savi-1311)](https://badges.pufler.dev)
 
 ### A Productive Procastinator 🌸
 
